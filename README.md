@@ -37,7 +37,7 @@ DFS explores as deep as possible along each branch before backtracking. It’s e
 
 ## Live Demo  
 
-Try the project live here: [Pathfinding Visualizer](https://manoharsingh1311.github.io/Path-Finding-Visualizer).  
+Try the project live here: [Pathfinding Visualizer](https://github.com/SANDEEPmehra01/Pathfinding-Visualizer).  
 
 ---
 
@@ -52,7 +52,7 @@ Try the project live here: [Pathfinding Visualizer](https://manoharsingh1311.git
 
 ### 1. Clone the Repository  
 ```sh
-git clone https://github.com/ManoharSingh1311/Pathfinding-Visualizer.git
+git clone https://github.com/SANDEEPmehra01/Pathfinding-Visualizer.git
 cd Pathfinding-Visualizer
 ```
 
@@ -73,7 +73,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/ManoharSingh1311/Pathfinding-Visualizer.git
+git remote add origin https://github.com/SANDEEPmehra01/Pathfinding-Visualizer.git
 git push -u origin main
 ```
 ### Enable GitHub Pages  
@@ -83,10 +83,10 @@ git push -u origin main
 - Save the changes.  
 
 ### Access the Live Link  
-GitHub will generate a live link (e.g., `https://manoharsingh1311.github.io/Path-Finding-Visualizer`). This can take a few minutes to activate.  
+GitHub will generate a live link (e.g., `https://github.com/SANDEEPmehra01/Pathfinding-Visualizer`). This can take a few minutes to activate.  
 
 ### Contact  
 For any inquiries, feel free to reach out:  
-📧 **Email**: burathimannu@gmail.com  
+📧 **Email**: worksandeep22@gmail.com  
 
 Feel free to fork the repository, contribute, or use this project to learn about pathfinding algorithms! 🎉
